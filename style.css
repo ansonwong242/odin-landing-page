@@ -1,3 +1,49 @@
+.first, .footer{
+    background-color: #1f2937;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.first-header{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8
+}
+
+.first-header-subtext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+a{
+    color: #e5e7eb;
+}
+
+.second-header{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.third{
+    background-color: #e5e7eb;
+}
+
+.third-header{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.fourth-container, .fourth-button{
+    background-color: #3882f6;
+}
+
+
+
 .footer{
     display: flex;
     justify-content: center;
