@@ -38,11 +38,9 @@ a{
     color: #1f2937;
 }
 
-.fourth-container, .fourth-button{
+.first-button, .fourth-container, .fourth-button{
     background-color: #3882f6;
 }
-
-
 
 .footer{
     display: flex;
